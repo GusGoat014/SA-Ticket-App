@@ -95,7 +95,7 @@ const styles = StyleSheet.create({
     flex: 1,
     justifyContent: 'center',
     alignItems: 'center',
-    backgroundColor: '#e0f7fa',
+    backgroundColor: '#73a9c2',
     padding: 20,
   },
   loadingBox: {
@@ -114,7 +114,7 @@ const styles = StyleSheet.create({
     borderRadius: 8,
     elevation: 2,
   },
-  ticketId: { fontSize: 10, color: '#999', marginTop: 2 },
+  ticketId: { fontSize: 10, color: '#12235e', marginTop: 2 },
   logoutButton: { marginTop: 20, padding: 10 },
-  logoutText: { color: '#006064', fontWeight: 'bold' },
+  logoutText: { color: '#d10606', fontWeight: 'bold' },
 });
