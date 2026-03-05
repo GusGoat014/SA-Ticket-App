@@ -2,7 +2,7 @@ import axios from 'axios';
 import { User } from '../models/User';
 import { Ticket } from '../models/Ticket';
 // Cole aqui o link gerado pelo Cloudflare (sem a barra no final)
-const BASE_URL = 'https://kyle-trader-personalized-cow.trycloudflare.com';
+const BASE_URL = 'https://mighty-missions-lan-immunology.trycloudflare.com';
 const api = axios.create({
   baseURL: BASE_URL,
 });
